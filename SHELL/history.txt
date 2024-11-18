@@ -1,0 +1,15 @@
+clear
+man sleep
+vim
+vi proclore.c
+clear
+exit
+vi &
+[I[2;2R[3;1R[>65;6800;1c]10;rgb:f2f2/f2f2/f2f2]11;rgb:3333/3333/3333:qqdknfwwqwqq`::
+cear
+clear
+man sleep | wc
+echo hi > temp.txt
+cat < temp.txt
+reveala
+reveala | wc
