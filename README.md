@@ -1,4 +1,4 @@
-# Mini project 1
+# C SHELL
 
 ## Assumptions
 
