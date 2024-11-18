@@ -1,0 +1,15 @@
+reveal ;   ;
+reveal ;     
+reveal ;;
+reveal ; ;
+reveal ; ; 
+reveal ; ;
+ls &   
+ls &
+hop ..   ;   hop ; ls   & 
+hop ..
+hop -
+hop &   &
+sleep &   &  ls
+sleep ; ; 
+sleep 5 ;  ; 
