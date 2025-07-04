@@ -86,7 +86,3 @@ A feature-rich shell implementation in C with various built-in commands and util
 - **Memory Management**: Careful allocation and deallocation of memory resources
 - **Signal Handling**: Customized signal handlers for various terminal signals
 - **Networking**: Implementation of network functionality for iMan command
-
-## Note
-
-This shell implementation aims to provide a subset of the functionality found in standard shells like bash while maintaining simplicity and educational value.
