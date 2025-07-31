@@ -117,7 +117,7 @@ void run_in_background(int pid)
     }
     if (kill(pid, SIGCONT) == -1)
     {
-        printf("Could not brgin the process %d\n", pid);
+        printf("Could not begin the process %d\n", pid);
         return;
     }
 }
