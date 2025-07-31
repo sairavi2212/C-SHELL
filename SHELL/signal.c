@@ -1,5 +1,6 @@
 #include "signal.h"
 #include "back-fore.h"
+
 void ping(char *command)
 {
     pair *refined = different_commands(command, " ");
