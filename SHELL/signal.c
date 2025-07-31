@@ -100,7 +100,7 @@ void bring_to_foreground(int pid)
     }
     if (kill(pid, SIGCONT) == -1)
     {
-        printf("Could not brgin the process %d\n", pid);
+        printf("Could not begin the process %d\n", pid);
         return;
     }
     foreground_id = pid;
