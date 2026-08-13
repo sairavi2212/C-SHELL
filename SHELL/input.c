@@ -61,7 +61,6 @@ int checker(char *input)
             }
             if (input[i] == '&')
             {
-                flag = 0;
                 printf("Invalid Syntax\n");
                 return 1;
             }
